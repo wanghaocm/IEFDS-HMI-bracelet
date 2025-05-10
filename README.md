@@ -18,6 +18,6 @@ Python 3.10 download on https://www.python.org/, and Install by default steps.
 Expected run time for demo on a "normal" destop computer Within one minute.
 Expected output of MLP-Test.zip: The code in MLP-Test.zip implements the evaluation of the accuracy rate of action recognition for human-computer interaction signals.
 
-6. How to run the software on your data：
+6. How to run the software on your data:
 The software STM32F103C8-ADS1298-Bluetooth.zip is used to obtain 8-channel differential signals.
 Selecting the data of Fig. S27 and Fig. S30 in the source data File-SI-1(Fig-S1-42). xlsx on https://www.scidb.cn/en/s/3mQ36r and building the training set and test  set to run the MLP-Test.zip.It should be noted that the quantity of input data and the number of labels correspond to the samples.
