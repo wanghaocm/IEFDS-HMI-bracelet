@@ -1,14 +1,14 @@
-1. All software dependencies and operating systems (including version numbers)
-Operating systems: Windows 10 Home Chinese Version
-Software dependencies: 
-Pycharm Community Edition 2021.3.2, Python 3.10, Keil uVision5, Lichuang EDA Professional Edition.
+1. All software dependencies and operating systems (including version numbers)  
+Operating systems: Windows 10 Home Chinese Version  
+Software dependencies:   
+Pycharm Community Edition 2021.3.2, Python 3.10, Keil uVision5, Lichuang EDA Professional Edition. 
 
 2. Versions the software has been tested on Windows 10 Home Chinese Version
 
-3. Any required non-standard hardware
+3. Any required non-standard hardware  
 The hardware circuits in Multi-channel EMG circui (MCU main control Board).zip and Multi-channel EMG circuit (AD1298 front end).zip are required.
 
-4. Installation guide
+4. Installation guide  
 Lichuang EDA Professional Edition run on https://pro.lceda.cn/editor.
 Pycharm Community Edition 2021.3.2 download on https://blog.jetbrains.com/pycharm/2022/01/2021-3-2/, and Install by default steps.
 Keil uVision5 download on https://www.keil.com/demo/eval/c51.htm, and Install by default steps.
