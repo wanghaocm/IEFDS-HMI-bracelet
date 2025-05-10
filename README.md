@@ -9,7 +9,7 @@ Pycharm Community Edition 2021.3.2, Python 3.10, Keil uVision5, Lichuang EDA Pro
 The hardware circuits in Multi-channel EMG circui (MCU main control Board).zip and Multi-channel EMG circuit (AD1298 front end).zip are required.
 
 4. Installation guide
-Lichuang EDA Professional Edition run on https://pro.lceda.cn/editor.\\
+Lichuang EDA Professional Edition run on https://pro.lceda.cn/editor.
 Pycharm Community Edition 2021.3.2 download on https://blog.jetbrains.com/pycharm/2022/01/2021-3-2/, and Install by default steps.
 Keil uVision5 download on https://www.keil.com/demo/eval/c51.htm, and Install by default steps.
 Python 3.10 download on https://www.python.org/, and Install by default steps.
@@ -18,6 +18,6 @@ Python 3.10 download on https://www.python.org/, and Install by default steps.
 Expected run time for demo on a "normal" destop computer Within one minute.
 Expected output of MLP-Test.zip: The code in MLP-Test.zip implements the evaluation of the accuracy rate of action recognition for human-computer interaction signals.
 
-6. How to run the software on your data:
+6. How to run the software on your data:  
 The software STM32F103C8-ADS1298-Bluetooth.zip is used to obtain 8-channel differential signals.
 Selecting the data of Fig. S27 and Fig. S30 in the source data File-SI-1(Fig-S1-42). xlsx on https://www.scidb.cn/en/s/3mQ36r and building the training set and test  set to run the MLP-Test.zip.It should be noted that the quantity of input data and the number of labels correspond to the samples.
